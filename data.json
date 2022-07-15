@@ -2,29 +2,29 @@
   {
     "longName": "Emirates NBD Bank PJSC",
     "shortName": "EMIRATESNBD",
-    "currentPrice": "%1.8",
-    "changeRatio": "AED 6,300.90",
+    "changeRatio": "%1.8",
+    "currentPrice": "AED 6,300.90",
     "imageResource": "https://raw.githubusercontent.com/OgulcanBicer/kodluyoruz-frontend-101-egitimi/main/endb.png"
   },
   {
     "longName": "Roads & Transp...",
     "shortName": "RTA",
-    "currentPrice": "%0.9",
-    "changeRatio": "AED 3,300.90",
+    "changeRatio": "%0.9",
+    "currentPrice": "AED 3,300.90",
     "imageResource": "https://raw.githubusercontent.com/OgulcanBicer/kodluyoruz-frontend-101-egitimi/main/rta.jpg"
   },
   {
     "longName": "Dubai Islamic Bank",
     "shortName": "DIB",
-    "currentPrice": "-%0.9",
-    "changeRatio": "AED 2,300.90",
+    "changeRatio": "-%0.9",
+    "currentPrice": "AED 2,300.90",
     "imageResource": "https://raw.githubusercontent.com/OgulcanBicer/kodluyoruz-frontend-101-egitimi/main/dib.webp"
   },
   {
     "longName": "Emirates Integrated..",
     "shortName": "DU",
-    "currentPrice": "-%1.9",
-    "changeRatio": "AED 1,300.90",
+    "changeRatio": "-%1.9",
+    "currentPrice": "AED 1,300.90",
     "imageResource" : "https://raw.githubusercontent.com/OgulcanBicer/kodluyoruz-frontend-101-egitimi/main/du.jpg"
   }
 ]
